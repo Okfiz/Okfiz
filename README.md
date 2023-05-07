@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on LinkedIn, Upwork, Fiverr, etc.
-- 📫 How to reach me, you can emailing me @okfi.zumi@gmail.com
+- 📫 How to reach me, you can emailing me @okfi.zumi@gmail.com or my phone 085785112910
 
 <!---
 Okfiz/Okfiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
